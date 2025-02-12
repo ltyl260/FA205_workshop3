@@ -3,7 +3,16 @@
 // the fisrt issue with this plan is transforming my image into a x*y*3 matrix of pixel values.
 //https://p5js.org/reference/p5.Image/pixels/
 
-let img; let img1; let img2; let img3; let img4; let img5; let img6; let img7; let img8; let img9;
+let img; 
+let img1; 
+let img2; 
+let img3; 
+let img4; 
+let img5; 
+let img6; 
+let img7; 
+let img8; 
+let img9;
 
 function preload() {
   img = loadImage('/Scaup.jpg'); //placeholder
